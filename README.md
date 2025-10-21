@@ -8,4 +8,4 @@ I believe in writing tested, maintainable code and continuously sharpening my cr
 
 **Tech I work with:** React Native • React • TypeScript • NextJS • Redux • Jest • React Query • Expo
 
-**Let's connect:** [Email](mailto://iviacharles@gmail.com)
+**Let's connect:** [Email](mailto:iviacharles@gmail.com)
