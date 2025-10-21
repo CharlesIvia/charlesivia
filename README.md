@@ -1,21 +1,11 @@
-### 👋 Welcome, I'm Charles Ivia.
+### Hi there 👋
 
-[![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/charles-ivia-6a2828134/)
-[![gmail](https://img.shields.io/badge/-iviacharles@gmail.com-grey?style=flat-square&logo=gmail)](mailto://iviacharles@gmail.com)
+I'm Charles, a Frontend & Mobile Engineer based in Nairobi, Kenya.
 
-I'm a software developer with 4+ years of experience creating web applications with bespoke UI and UX. My passion is web & mobile applications development: programming, design (UI and UX), good application architecture and data.
+My stack centers around React Native and TypeScript. I'm passionate about building mobile and web experiences that feel native and performant. Currently working on production apps professionally, and after-hours, I'm building **Gymwins**—a fitness tracking app using React Native and Expo that I'm shipping to the Play Store.
 
-#### Skills
+I believe in writing tested, maintainable code and continuously sharpening my craft through deliberate practice.
 
-![](https://img.shields.io/badge/Javascript-0A1A2F?style=flat&logo=javascript&logoColor=00d8fd)
-![](https://img.shields.io/badge/React-0A1A2F?style=flat&logo=react&logoColor=00d8fd)
-![](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-![](https://img.shields.io/badge/Typescript-0A1A2F?style=flat&logo=typescript&logoColor=00d8fd)
-![](https://img.shields.io/badge/Next.js-0A1A2F?style=flat&logo=next.js&logoColor=00d8fd)
-![](https://img.shields.io/badge/Python-0A1A2F?style=flat&logo=python&logoColor=00d8fd)
+**Tech I work with:** React Native • React • TypeScript • NextJS • Redux • Jest • React Query • Expo
 
-#### Tools
-
-![](https://img.shields.io/badge/Git-0A1A2F?style=flat&logo=git)
-![](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-![](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+**Let's connect:** [Email](mailto://iviacharles@gmail.com)
